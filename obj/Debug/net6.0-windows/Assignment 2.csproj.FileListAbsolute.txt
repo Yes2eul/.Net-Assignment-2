@@ -1,0 +1,35 @@
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\13978248_Assignment 2\bin\Debug\net6.0-windows\Assignment 2.exe
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\13978248_Assignment 2\bin\Debug\net6.0-windows\Assignment 2.dll
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\13978248_Assignment 2\obj\Debug\net6.0-windows\Assignment 2.csproj.AssemblyReference.cache
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\13978248_Assignment 2\obj\Debug\net6.0-windows\_13978248_Assignment_2.LoginScreen.resources
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\13978248_Assignment 2\obj\Debug\net6.0-windows\_13978248_Assignment_2.NewUser.resources
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\13978248_Assignment 2\obj\Debug\net6.0-windows\_13978248_Assignment_2.Properties.Resources.resources
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\13978248_Assignment 2\obj\Debug\net6.0-windows\_13978248_Assignment_2.TextEditor.resources
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\13978248_Assignment 2\obj\Debug\net6.0-windows\Assignment 2.csproj.GenerateResource.cache
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\13978248_Assignment 2\obj\Debug\net6.0-windows\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\13978248_Assignment 2\obj\Debug\net6.0-windows\Assignment 2.AssemblyInfoInputs.cache
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\13978248_Assignment 2\obj\Debug\net6.0-windows\Assignment 2.AssemblyInfo.cs
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\13978248_Assignment 2\obj\Debug\net6.0-windows\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\13978248_Assignment 2\obj\Debug\net6.0-windows\Assignment 2.dll
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\13978248_Assignment 2\obj\Debug\net6.0-windows\refint\Assignment 2.dll
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\13978248_Assignment 2\obj\Debug\net6.0-windows\Assignment 2.pdb
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\Assignment 2\bin\Debug\net6.0-windows\Assignment 2.exe
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\Assignment 2\bin\Debug\net6.0-windows\Assignment 2.deps.json
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\Assignment 2\bin\Debug\net6.0-windows\Assignment 2.runtimeconfig.json
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\Assignment 2\bin\Debug\net6.0-windows\Assignment 2.dll
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\Assignment 2\bin\Debug\net6.0-windows\Assignment 2.pdb
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\Assignment 2\obj\Debug\net6.0-windows\Assignment 2.csproj.AssemblyReference.cache
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\Assignment 2\obj\Debug\net6.0-windows\_13978248_Assignment_2.LoginScreen.resources
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\Assignment 2\obj\Debug\net6.0-windows\_13978248_Assignment_2.NewUser.resources
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\Assignment 2\obj\Debug\net6.0-windows\_13978248_Assignment_2.Properties.Resources.resources
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\Assignment 2\obj\Debug\net6.0-windows\_13978248_Assignment_2.TextEditor.resources
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\Assignment 2\obj\Debug\net6.0-windows\Assignment 2.csproj.GenerateResource.cache
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\Assignment 2\obj\Debug\net6.0-windows\Assignment 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\Assignment 2\obj\Debug\net6.0-windows\Assignment 2.AssemblyInfoInputs.cache
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\Assignment 2\obj\Debug\net6.0-windows\Assignment 2.AssemblyInfo.cs
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\Assignment 2\obj\Debug\net6.0-windows\Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\Assignment 2\obj\Debug\net6.0-windows\Assignment 2.dll
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\Assignment 2\obj\Debug\net6.0-windows\refint\Assignment 2.dll
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\Assignment 2\obj\Debug\net6.0-windows\Assignment 2.pdb
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\Assignment 2\obj\Debug\net6.0-windows\Assignment 2.genruntimeconfig.cache
+C:\Users\Yeseul\Desktop\.Net\13978248_Assignment 2\Assignment 2\obj\Debug\net6.0-windows\ref\Assignment 2.dll
